@@ -1,5 +1,0 @@
-hello,world
-hello,chisa
-B modified text1
-A modified text1
-701503c0f25bc205ff61c4f13dd6a6eec5bc9754
